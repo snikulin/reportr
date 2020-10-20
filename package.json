@@ -13,7 +13,7 @@
         "architect": "0.1.10",
         "q": "0.9.6",
         "underscore": "1.4.4",
-        "request": "2.27.0",
+        "request": "2.88.2",
         "browser-request": "0.2.1",
         "hr.js": "0.1.5",
         "browserify": "2.34.0",
